@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nangor Millicent Lokaale | Advocate of the High Court</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>Nangor Millicent Lokaale</h1>
+            <p>Advocate of the High Court of Kenya | Commissioner for Oaths</p>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="hero-content">
+            <img src="images/millicent.jpg" alt="Millicent Lokaale" class="profile-pic">
+            <div class="intro">
+                <h2>Welcome to My Legal Portfolio</h2>
+                <p>Dedicated to providing professional legal services with integrity, diligence, and excellence. I strive to deliver practical solutions to my clients’ legal challenges.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="about">
+        <h2>About Me</h2>
+        <p>I am an Advocate of the High Court of Kenya and a Commissioner for Oaths with years of experience in legal practice. My mission is to uphold justice and offer dependable legal support to individuals, businesses, and organizations.</p>
+    </section>
+
+    <!-- Services Section -->
+    <section class="services">
+        <h2>Legal Services</h2>
+        <div class="service-list">
+            <div class="service">
+                <h3>Legal Consultation</h3>
+                <p>Offering guidance and professional advice across various areas of law.</p>
+            </div>
+            <div class="service">
+                <h3>Document Drafting & Review</h3>
+                <p>Preparation and evaluation of legal documents, contracts, and agreements.</p>
+            </div>
+            <div class="service">
+                <h3>Commissioner for Oaths</h3>
+                <p>Administering oaths and affirmations in legal and official matters.</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section class="contact">
+        <h2>Contact Me</h2>
+        <p>Email: <a href="mailto:millicentlokaale@gmail.com">millicentlokaale@gmail.com</a></p>
+        <p>Phone: +254 7XX XXX XXX</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; <?php echo date("Y"); ?> Nangor Millicent Lokaale | All Rights Reserved</p>
+    </footer>
+
+</body>
+</html>
